@@ -1,0 +1,9 @@
+name: SetHead
+version: 0.1
+author: test123
+main: main.java.com.sethead.Main
+api-version: 1.14
+commands:
+  sethead:
+    description: Set a skin to a mob head
+    usage: /sethead [player's name|player's id|Base64 value|textures.minecraft.net URL] [(optional) item's name]
